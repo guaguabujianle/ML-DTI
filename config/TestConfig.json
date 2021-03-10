@@ -1,0 +1,14 @@
+{
+    "test":
+    {
+        "data_root": "./preprocessed_data",
+        "model": "ML-DTI", 
+        "dataset" : "davis",
+        "fold" : 0,
+        "split_type" : "warm",
+        "load_dir" : "/data/zhuo/DTI/model/20210101_224111_CNN-CNN_davis_warm_0",
+        "model_path" : "epoch-92, loss-0.0308, cindex-0.9621, val_loss-0.1888, val_cindex-0.8782, test_loss-0.1933, test_cindex-0.8794.pt",
+        "save_result" : false,
+        "mark": null
+    }
+}

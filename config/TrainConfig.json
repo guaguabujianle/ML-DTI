@@ -1,0 +1,13 @@
+{
+    "train":
+    {
+        "data_root": "./preprocessed_data",
+        "dataset" : "davis",
+        "model": "ML-DTI", 
+        "fold" : 0,
+        "split_type" : "warm",
+        "save_dir" : "/data/zhuo/DTI/model",
+        "save_model": true, 
+        "mark": null
+    }
+}
