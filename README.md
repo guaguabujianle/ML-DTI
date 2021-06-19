@@ -1,5 +1,5 @@
 # ML-DTI
-Code for paper "Improving drug-target binding affinity prediction and interpretability by mutual learning mechanism".
+Code for paper "ML-DTI: Mutual Learning Mechanism for Interpretable Drug-target Interaction Prediction".
 
 Implemention of mutual learning mechanism can be found in "./network/ML_DTI".
 
